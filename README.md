@@ -1,4 +1,4 @@
 # hello_world
 new to github
 hello! this is karthik
-i want to contribuite to your project.
+I'm working on HTML, CSS, JAVA SCRIPT and PYTHON
